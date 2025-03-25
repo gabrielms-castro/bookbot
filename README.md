@@ -1,6 +1,6 @@
 # bookbot
 
-BookBot is my first project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 Book Bot is a Python project designed to analyze the contents of a book and generate a statistical report. It counts the number of words and characters in the book and provides insights into the frequency of each character.
 
