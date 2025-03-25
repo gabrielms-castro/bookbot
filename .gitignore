@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # books
-books/
+/books
 
 
 # Distribution / packaging
